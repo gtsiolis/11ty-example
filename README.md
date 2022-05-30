@@ -6,6 +6,8 @@ A starter repository for building a blog with the [Eleventy static site generato
 
 Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
 
+// TEST
+
 ## Demo
 
 * [Netlify Demo](https://eleventy-high-performance-blog-sample.industrialempathy.com/)
