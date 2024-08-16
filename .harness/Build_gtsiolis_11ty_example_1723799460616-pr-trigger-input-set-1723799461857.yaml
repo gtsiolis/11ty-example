@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_gtsiolis_11ty_example_1723799460616-pr-trigger-input-set
+  identifier: Build_gtsiolis_11ty_example_1723799460616prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_gtsiolis_11ty_example_1723799460616
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
